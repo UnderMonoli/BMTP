@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708643167 source:d:\university labs\bmtp\bmtp-lab7\prj\zaharchenko-task_7_2\main.c
+	<stdio.h>
+	<locale.h>
+
