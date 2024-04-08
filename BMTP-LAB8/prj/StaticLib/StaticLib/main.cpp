@@ -1,7 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 using namespace std;
-int main() {
+void job() {
     SetConsoleOutputCP(866);
     const int width = 32;
 
@@ -24,6 +24,12 @@ int main() {
     cout << (char)179 << endl;
 
     cout << (char)192 << string(width, (char)196) << (char)217 << endl;
+
+ }
+
+int main()
+{
+    job();
 
     return 0;
 }
